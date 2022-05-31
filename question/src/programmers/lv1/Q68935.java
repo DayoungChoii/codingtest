@@ -1,4 +1,4 @@
-package programmers;
+package programmers.lv1;
 
 public class Q68935 {
     public static void main(String[] args) {
